@@ -13,7 +13,7 @@ namespace Standby
             bool force = false;
             bool disableWakeEvent = false;
 
-            foreach (string arg in Environment.GetCommandLineArgs())
+            foreach (string arg in args)
             {
                 switch (arg)
                 {
