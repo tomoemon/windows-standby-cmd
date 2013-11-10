@@ -8,6 +8,14 @@ Requirements
 
 * .NET Framework (2.0, 3.0 or 3.5)
 
+
+Download
+----------
+
+You can download `Standby.exe` binary file at releases. 
+See https://github.com/tomoemon/windows-standby-cmd/releases
+
+
 Usage
 ------
 
