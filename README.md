@@ -21,17 +21,17 @@ Usage
 
 * Perform standby
 
-        bin/Standby.exe
+        Standby.exe
 
 * Perform standby forcibly
 
-        bin/Standby.exe --force
+        Standby.exe --force
 
 * Perform hibernate
 
-        bin/Standby.exe --hibernate
+        Standby.exe --hibernate
 
 * Perform standby with disabling wake up event
 
-        bin/Standby.exe --disableWakeEvent
+        Standby.exe --disableWakeEvent
 
